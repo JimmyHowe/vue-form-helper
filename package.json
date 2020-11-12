@@ -1,6 +1,6 @@
 {
   "name": "@jimmyhowedotcom/vue-form-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue Form Helper",
   "type": "module",
   "main": "index.js",
