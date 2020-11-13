@@ -75,10 +75,6 @@ export class Errors
  */
 export class Form
 {
-    original;
-
-    errors;
-
     /**
      * Create a new Form instance.
      *
